@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaterialDesignMappBu</string>
+    <string name="home">home</string>
+    <string name="catalog">catalog</string>
+    <string name="delivery">delivery</string>
+    <string name="contacts">contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appBarName">Меню</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+</resources>
